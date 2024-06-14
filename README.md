@@ -1,7 +1,7 @@
 <h2> Hi, I'm Arjun Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AllHeresy89790?style=social)](https://twitter.com/AllHeresy89790)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-arjun-singh-0108981b4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-singh-0108981b4/)](https://www.linkedin.com/in/thaianebraga/)
+[![Twitter: Cold](https://img.shields.io/twitter/follow/AllHeresy89790?style=social)](https://twitter.com/AllHeresy89790)
+[![Linkedin: Arjun Singh](https://img.shields.io/badge/-arjun-singh-0108981b4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-singh-0108981b4/)](https://www.linkedin.com/in/arjun-singh-0108981b4/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
