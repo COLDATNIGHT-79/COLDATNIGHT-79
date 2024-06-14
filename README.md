@@ -1,12 +1,12 @@
 <h2> Hi, I'm Arjun Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Look at this goofy code  
 
 ```javascript
-const thai = {
+const arjun = {
   pronouns: "he" | "him",
-  code: [C++,Python, Javescript, Ruby, Rust, LUA, ],
+  code: [C++,Python, Javescript, Ruby, Rust, LUA, Rails ],
   tools: [Visual Studio 2022, Google Collab, 4,  Jest, Docker],
   architecture: ["Reactive/Real time", "event-driven", "design system pattern"],
  challenge: "Trying to develop my own game, alone :D"
