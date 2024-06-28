@@ -11,10 +11,10 @@ const arjun = {
   tools: [Visual Studio 2022, Unity, godot, unreal 5, Google Collab, 4,  Jest, Docker],
   architecture: ["Reactive/Real time", "event-driven", "design system pattern"],
  challenge: "them"
-<a href = "https://mvnes.vercel.app/"> check out ma game so</a href>
+
 }
 ```
-
+<a href = "https://mvnes.vercel.app/"> check out ma game so</a href>
 
  <em><b>i have adhd and autism nd i fking lv it</b> :)</em>
 
