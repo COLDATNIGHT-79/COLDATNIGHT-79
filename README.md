@@ -7,8 +7,8 @@
 ```javascript
 const arjun = {
   pronouns: "he" | "him",
-  code: [C++,Python, Javescript, Ruby, Rust, LUA, Rails ],
-  tools: [Visual Studio 2022, Unity, godot, unreal 5, Google Collab, 4,  Jest, Docker],
+  code: [C++, C#, Python, Javescript, Ruby, Rust, LUA, Rails ],
+  tools: [Visual Code/Studio 2022, MongoDB, Unity, godot, Google Collab, 4,  Jest, Docker, and more tools],
   architecture: ["Reactive/Real time", "event-driven", "design system pattern"],
  challenge: "them"
 
