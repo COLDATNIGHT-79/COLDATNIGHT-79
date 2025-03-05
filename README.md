@@ -16,6 +16,6 @@ const arjun = {
 ```
 <a href = "[https://mvnes.vercel.app/](https://thingscolddid.vercel.app/)"> things i have done
 
- <em><b>i have adhd and autism nd i fking lv it</b> :)</em>
+ <em><b>i love being insane</b> :)</em>
 
 ---
