@@ -14,7 +14,7 @@ const arjun = {
 
 }
 ```
-<a href = "[https://mvnes.vercel.app/](https://thingscolddid.vercel.app/)"> things i have done
+<a href = "https://thingscolddid.vercel.app/"> things i have done
 
  <em><b>i love being insane</b> :)</em>
 
